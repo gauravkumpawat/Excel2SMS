@@ -1,4 +1,4 @@
-package com.example.welcome.jaguar;
+package com.example.lenovo.jaguar;
 
 /**
  * Created by L0k35h_p4nd3y on 27-04-2018.

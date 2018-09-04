@@ -1,4 +1,4 @@
-package com.example.welcome.jaguar;
+package com.example.lenovo.jaguar;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -227,7 +227,7 @@ public class SimpleFileDialog {
         // Create title text showing file select type //
         ////////////////////////////////////////////////
         m_titleView1 = new TextView(m_context);
-        m_titleView1.setLayoutParams(new ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
+        m_titleView1.setLayoutParams(new ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
         //m_titleView1.setTextAppearance(m_context, android.R.style.TextAppearance_Large);
         //m_titleView1.setTextColor( m_context.getResources().getColor(android.R.color.black) );
 

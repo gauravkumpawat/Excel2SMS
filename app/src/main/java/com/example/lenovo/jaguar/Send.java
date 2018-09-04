@@ -1,4 +1,4 @@
-package com.example.welcome.jaguar;
+package com.example.lenovo.jaguar;
 
 import android.Manifest;
 import android.accounts.AccountManager;

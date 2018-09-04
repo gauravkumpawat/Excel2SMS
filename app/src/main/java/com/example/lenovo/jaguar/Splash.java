@@ -1,4 +1,4 @@
-package com.example.welcome.jaguar;
+package com.example.lenovo.jaguar;
 
 import android.content.Intent;
 import android.support.v7.app.ActionBar;

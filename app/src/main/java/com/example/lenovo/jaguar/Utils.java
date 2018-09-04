@@ -1,4 +1,4 @@
-package com.example.welcome.jaguar;
+package com.example.lenovo.jaguar;
 
 import android.content.Context;
 import android.content.pm.PackageManager;

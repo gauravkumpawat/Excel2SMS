@@ -1,4 +1,4 @@
-package com.example.welcome.jaguar;
+package com.example.lenovo.jaguar;
 
 import android.app.Dialog;
 import android.database.Cursor;

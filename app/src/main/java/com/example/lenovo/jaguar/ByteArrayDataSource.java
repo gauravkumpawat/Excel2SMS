@@ -1,4 +1,4 @@
-package com.example.welcome.jaguar;
+package com.example.lenovo.jaguar;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
